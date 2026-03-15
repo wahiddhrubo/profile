@@ -1,0 +1,159 @@
+{
+  "name": "WAHID FAISAL",
+  "emailAddress": "wahiddhrubo@gmail.com",
+  "googleScholarId": "https://scholar.google.com/citations?user:3TqRJ-YAAAAJ&hl:en",
+  "orcidId": "https://orcid.org/0009-0006-4691-1207",
+  "gihubProfile": "https://github.com/wahiddhrubo/",
+  "linkedinProfile": "https://www.linkedin.com/in/wahid-faisal-517a73345/",
+  "bio": [
+    "I am Wahid Faisal, an aspiring AI researcher and a recent graduate in Industrial and Production Engineering from Shahjalal University of Science and Technology. My research focuses on building human-centric, reliable, and intelligent AI systems that support decision-making in complex industrial and real-world environments.",
+    "My recent work explores **agentic AI systems, large language model (LLM) agents, generative AI, and uncertainty-aware machine learning**, with applications in **smart manufacturing, intelligent automation, and human-AI collaboration**.",
+    "My research has been published at leading venues including International Conference on Learning Representations (**ICLR 2026**) and the ACM Conference on Computer-Supported Cooperative Work and Social Computing Companion (**CSCW Companion 2025**). I have collaborated with **[Md Rizwan Parvez](https://scholar.google.com/citations?user=KhC8rtcAAAAJ&hl=en)** (PhD, Qatar Computing Research Institute) on generative AI, AI agents, and reasoning, and with **[Prof. Alshehri](https://www.ai4chemia.org/about)** from King Saud University on generative AI and uncertainty in machine learning.",
+    "My long-term research vision is to develop human-centric intelligent systems that combine AI reasoning, automation, and robust decision-making for complex industrial and societal applications.",
+    "To achieve this goal, I plan to develop my research along the following interconnected directions:",
+    " **1. Generative AI, Agentic LLMs, and Autonomous AI Systems**: Developing intelligent agents capable of structured reasoning, adaptive planning, and multi-step decision-making, enabling AI systems that can interact with humans, coordinate tasks, and support complex problem-solving in real-world environments.",
+    " **2. Smart Manufacturing, Intelligent Systems, and Autonomous Automation**: Designing AI-driven manufacturing and industrial systems that integrate machine learning, robotics, and automation to enable adaptive production systems, autonomous process control, and data-driven optimization for next-generation smart factories.",
+    " **3. Human-Computer / Human-AI Interaction and Trustworthy AI**: Ensuring safety, reliability, interpretability, and robustness in AI systems, while enabling effective human-AI collaboration. This includes studying human-AI interaction, uncertainty-aware AI, and decision-support systems for high-stakes domains.",
+    "My research experience includes work on uncertainty quantification in machine learning, LLM-based agents, and agentic AI architectures, with the broader goal of advancing trustworthy intelligent systems and autonomous decision-making technologies.",
+    " **I am currently seeking PhD or research-based MSc opportunities to further pursue research one or more of these research directions.** ",
+    " Feel free to **[email me](mailto:wahiddhrubo@gmail.com)** if you're interested in collaboration or discussing research. I'm open to new ideas and collaborations. "
+  ],
+  "publications": [
+    {
+      "id": "22102024-1",
+      "title": "Ensemble-Based Approach Using Pre-Trained Models for Fake News Detection in Dravidian Languages",
+      "authors": "Mahfuz Ahmed Anik, Md. Iqramul Hoque, Wahid Faisal, Azmine Toushik Wasi, Md Manjurul Ahsan",
+      "abstract": "The widespread spread of fake news on social media poses significant challenges, particularly for low-resource languages like Malayalam. The accessibility of social platforms accelerates misinformation, leading to societal polarization and poor decision-making. Detecting fake news in Malayalam is complex due to its linguistic diversity, code-mixing, and dialectal variations, compounded by the lack of large labeled datasets and tailored models. To address these, we developed a fine-tuned transformer-based model for binary and multiclass fake news detection. The binary classifier achieved a macro F1 score of 0.814, while the multiclass model, using multimodal embeddings, achieved a score of 0.1978. Our system ranked 14th and 11th in the shared task competition, highlighting the need for specialized techniques in underrepresented languages. Our full experimental codebase is publicly available at: ciol-researchlab/NAACL25-Akatsuki-Fake-News-Detection.",
+      "venue": "DravidianLangTech | WS",
+      "publishDate": "22 October 2024",
+      "link": "https://doi.org/10.18653/v1/2025.dravidianlangtech-1.3",
+      "type": "Workshop",
+      "tags": [""]
+    },
+    {
+      "id": "17102025-1",
+      "title": "Knowledge Explorer: An Agentic AI Framework for Interactive, Personalized and Multilingual Learning Experience",
+      "authors": "Wahid Faisal, Azmine Toushik Wasi, Drishti Sharma, Mahfuz Ahmed Anik, Taki Hasan Rafi, Dong-Kyu Chae",
+      "abstract": "Digital education tools have made learning more accessible, yet they often fall short in providing personalized guidance, multilingual support, and engaging pedagogical strategies. As global learners seek more adaptive and inclusive educational experiences, there is a growing need for systems that replicate the explanatory depth of expert tutors. Existing solutions typically lack fine-grained topic breakdowns, contextual grounding, and dynamic delivery methods. To address these gaps, we present Knowledge Explorer, a multi-agent AI system that delivers personalized, multilingual explanations using structured topic decomposition, retrieval-augmented generation (RAG), and storytelling. The system leverages LangGraph and LangChain to coordinate agents for subtopic division, factual retrieval, and narrative-based teaching, integrating Cohere’s SOTA embedding, rerank and LLM models alongside ChromaDB as the vector store. Our key contributions include a language-agnostic architecture for education, a storytelling-based delivery agent, and a RAG pipeline grounded in authoritative sources. Preliminary results show effective content generation in English, Hindi, and Spanish, underscoring the system’s potential as a scalable and globally adaptable educational companion. Overall, these capabilities position Knowledge Explorer as a promising tool for advancing learning equity, particularly in underserved and linguistically diverse communities.",
+      "venue": "CSCW Companion 25",
+      "publishDate": "17 October 2025 ",
+      "link": "https://doi.org/10.1145/3715070.3749282",
+      "type": "Workshop",
+      "tags": [""],
+      "featured": true
+    },
+    {
+      "id": "22102024-2",
+      "title": "Exploring Possibilities of AI-Powered Legal Assistance in Bangladesh through Large Language Modeling",
+      "authors": "Azmine Toushik Wasi, Wahid Faisal, Mst Rafia Islam, M. Bappy ",
+      "abstract": "Purpose: Bangladesh's legal system struggles with major challenges like delays, complexity, high costs, and millions of unresolved cases, which deter many from pursuing legal action due to lack of knowledge or financial constraints. This research seeks to develop a specialized Large Language Model (LLM) to assist in the Bangladeshi legal system. Methods: We created UKIL-DB-EN, an English corpus of Bangladeshi legal documents, by collecting and scraping data on various legal acts. We fine-tuned the GPT-2 model on this dataset to develop GPT2-UKIL-EN, an LLM focused on providing legal assistance in English. Results: The model was rigorously evaluated using semantic assessments, including case studies supported by expert opinions. The evaluation provided promising results, demonstrating the potential for the model to assist in legal matters within Bangladesh. Conclusion: Our work represents the first structured effort toward building an AI-based legal assistant for Bangladesh. While the results are encouraging, further refinements are necessary to improve the model's accuracy, credibility, and safety. This is a significant step toward creating a legal AI capable of serving the needs of a population of 180 million",
+      "venue": "",
+      "publishDate": "22 October 2024",
+      "link": "https://arxiv.org/pdf/2410.17210.pdf",
+      "type": "In Review",
+      "inReview": true,
+      "tags": [""]
+    },
+    {
+      "id": "22102024-3",
+      "title": "Dhoroni: Exploring Bengali Climate Change and Environmental Views with a Multi-Perspective News Dataset and Natural Language Processing",
+      "authors": "Azmine Toushik Wasi, Wahid Faisal, Taj Ahmad, Abdur Rahman, Mst Rafia Islam ",
+      "abstract": "Climate change poses critical challenges globally, disproportionately affecting low-income countries that often lack resources and linguistic representation on the international stage. Despite Bangladesh's status as one of the most vulnerable nations to climate impacts, research gaps persist in Bengali-language studies related to climate change and NLP. To address this disparity, we introduce Dhoroni, a novel Bengali (Bangla) climate change and environmental news dataset, comprising a 2300 annotated Bangla news articles, offering multiple perspectives such as political influence, scientific/statistical data, authenticity, stance detection, and stakeholder involvement. Furthermore, we present an in-depth exploratory analysis of Dhoroni and introduce BanglaBERT-Dhoroni family, a novel baseline model family for climate and environmental opinion detection in Bangla, fine-tuned on our dataset. This research contributes significantly to enhancing accessibility and analysis of climate discourse in Bengali (Bangla), addressing crucial communication and research gaps in climate-impacted regions like Bangladesh with 180 million people. ",
+      "venue": "",
+      "publishDate": "22 October 2024",
+      "link": "https://arxiv.org/pdf/2410.17225.pdf",
+      "type": "In Review",
+      "inReview": true,
+      "tags": [""]
+    },
+    {
+      "id": "03022026-1",
+      "title": "SpatiaLab: Can Vision-Language Models Perform Spatial Reasoning in the Wild?",
+      "authors": "Azmine Toushik Wasi, Wahid Faisal, A. Rahman, Mahfuz Ahmed Anik, Munem Shahriar, Mohsin Mahmud Topu, Sadia Tasnim Meem, Rahatun Nesa Priti, Sabrina Afroz Mitu, Md. Iqramul Hoque, Shahriyar Zaman Ridoy, Mohammed Eunus Ali, Majd Hawasly, Mohammad Raza, Md. Rizwan Parvez",
+      "abstract": "Spatial reasoning is a fundamental aspect of human cognition, yet it remains a major challenge for contemporary vision-language models (VLMs). Prior work largely relied on synthetic or LLM-generated environments with limited task designs and puzzle-like setups, failing to capture the real-world complexity, visual noise, and diverse spatial relationships that VLMs encounter. To address this, we introduce SpatiaLab, a comprehensive benchmark for evaluating VLMs'spatial reasoning in realistic, unconstrained contexts. SpatiaLab comprises 1,400 visual question-answer pairs across six major categories: Relative Positioning, Depth&Occlusion, Orientation, Size&Scale, Spatial Navigation, and 3D Geometry, each with five subcategories, yielding 30 distinct task types. Each subcategory contains at least 25 questions, and each main category includes at least 200 questions, supporting both multiple-choice and open-ended evaluation. Experiments across diverse state-of-the-art VLMs, including open- and closed-source models, reasoning-focused, and specialized spatial reasoning models, reveal a substantial gap in spatial reasoning capabilities compared with humans. In the multiple-choice setup, InternVL3.5-72B achieves 54.93% accuracy versus 87.57% for humans. In the open-ended setting, all models show a performance drop of around 10-25%, with GPT-5-mini scoring highest at 40.93% versus 64.93% for humans. These results highlight key limitations in handling complex spatial relationships, depth perception, navigation, and 3D geometry. By providing a diverse, real-world evaluation framework, SpatiaLab exposes critical challenges and opportunities for advancing VLMs'spatial reasoning, offering a benchmark to guide future research toward robust, human-aligned spatial understanding. SpatiaLab is available at: https://spatialab-reasoning.github.io/.",
+      "venue": "ICLR 2026",
+      "publishDate": "3 February 2026",
+      "link": "https://arxiv.org/abs/2602.03916",
+      "type": "Conference Proceedings",
+      "tags": [""],
+      "featured": true
+    },
+    {
+      "id": "03152026-1",
+      "title": "TimeSpot: Benchmarking Geo-Temporal Understanding in Vision-Language Models in Real-World Settings",
+      "authors": "Azmine Toushik Wasi, Shahriyar Zaman Ridoy, Koushik Ahamed Tonmoy, Kinga Tshering, S. M. Muhtasimul Hasan, Wahid Faisal, Tasnim Mohiuddin, Md Rizwan Parvez",
+      "abstract": " Geo-temporal understanding, the ability to infer location, time, and contextual properties from visual input alone, underpins applications such as disaster management, traffic planning, embodied navigation, world modeling, and geography education. Although recent vision-language models (VLMs) have advanced image geo-localization using cues like landmarks and road signs, their ability to reason about temporal signals and physically grounded spatial cues remains limited. To address this gap, we introduce TimeSpot, a benchmark for evaluating real-world geo-temporal reasoning in VLMs. TimeSpot comprises 1,455 ground-level images from 80 countries and requires structured prediction of temporal attributes (season, month, time of day, daylight phase) and geographic attributes (continent, country, climate zone, environment type, latitude-longitude) directly from visual evidence. It also includes spatial-temporal reasoning tasks that test physical plausibility under real-world uncertainty. Evaluations of state-of-the-art open- and closed-source VLMs show low performance, particularly for temporal inference. While supervised fine-tuning yields improvements, results remain insufficient, highlighting the need for new methods to achieve robust, physically grounded geo-temporal understanding. TimeSpot is available at: this https URL. ",
+      "venue": "ICML 2026",
+      "publishDate": "",
+      "link": "https://arxiv.org/abs/2603.06687",
+      "type": "In Review",
+      "inReview": true,
+      "tags": [""],
+      "featured": true
+    }
+  ],
+  "projects": [
+    {
+      "id": "knowledge-explorer",
+      "name": "Knowledge Explorer",
+      "summary": "An AI app that turns complex topics into easy-to-follow, story-like explanations using retrieval and graph-based reasoning.",
+      "description": "## 1. Concept Definition and Customization\nUsers start at the top of the interface by defining the central topic they want to explore. A prominent text input field invites entry of a core concept, for example, “Force”, which acts as the foundation for the learning session. To tailor the content, users interact with several dropdown menus: \n- AI Model Selection: Choose the engine for content generation (e.g., “Cohere”) to control style, depth, and technicality. \n- Subject Selector: Specify the academic field (e.g., “Physics”), allowing the AI to contextualize examples and explanations accurately. \n- Language Preference: Select the preferred language for the output, making it accessible for diverse learners. \nAfter setting these parameters, the “Generate Sub Topics” button is clicked. The AI immediately analyzes the core concept and produces a structured breakdown of fundamental building blocks, laying the groundwork for focused exploration.\n\n## 2. Targeted Content Curation\nThe generated sub-topics appear as a dynamic, interactive checklist. Each item, such as “Definition of Force” or “Newton’s Laws of Motion”, includes a brief descriptor to guide the learner’s selection. Users can check or uncheck items according to interest or study goals, enabling personalized learning paths and preventing cognitive overload. \nOnce selections are finalized, the user activates the narrative creation with the “Generate Story” button. At this point, the AI transforms the curated technical content into story-driven explanations, specifically tailored to the user’s chosen sub-topics.\n\n## 3. Story-Based Learning and Interaction\nThe AI-generated content is displayed at the bottom of the interface as interactive chapters or story modules. Each selected sub-topic becomes a themed narrative, featuring memorable characters and scenarios that make complex concepts tangible. Examples include: \n- An explorer named Alex learning about force from Professor Einstein. \n- A young Newton observing a “Lazy Cat”, illustrating the concept of inertia in a relatable way. \nThe interface allows sequential reading of stories or direct access to specific chapters. This narrative approach bridges the gap between abstract formulas and real-world understanding, transforming technical content into engaging, memorable lessons.",
+      "link": "https://knowledgeexplorer.vercel.app/",
+      "thumbnail": "knowledge-explorer-thumbnail.png",
+      "images": ["knowledge-explorer-full-page.png"],
+      "skills": "Langchain, LangGraph, Agentic AI, AI for Good ",
+      "venue": "CSCW Companion 25",
+      "paperLink": "https://doi.org/10.1145/3715070.3749282",
+      "featured": true,
+      "motivations": [
+        "Personalized Learning",
+        "Improved Concept Retention",
+        "Active Engagement",
+        "Flexibility and Accessibility",
+        "Bridging Theory and Practice",
+        "Cognitive Load Management",
+        "Progress Tracking",
+        "Adaptive Learning"
+      ]
+    }
+  ],
+  "news": [],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "skills": "Python (Advanced), JavaScript (Advanced), C, C++, SQL"
+    },
+    {
+      "category": "DS & ML Tools",
+      "skills": "NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain, VLLM, Pydantic"
+    },
+    {
+      "category": "Data Science Techniques",
+      "skills": "EDA, Experimental Design, Hypothesis Testing, Sampling, Data-driven Decision Making"
+    },
+    {
+      "category": "Machine Learning Techniques",
+      "skills": "Statistical ML Methods, Deep Learning, NLP, Computer Vision, Graph Neural Networks (GNNs), RL and Reasoning in LLMs, Self-Verification, Uncertainty, Agentic Decision-Making, AI Reasoning, RAG, AI Agent Environments and Systems and Reward-Based RL Fine-Tuning"
+    },
+    {
+      "category": "Data Analysis & Visualization",
+      "skills": "MS Excel, Power BI, Tableau"
+    },
+    {
+      "category": "Interdisciplinary Research",
+      "skills": "AI for Good, multilinguality and multicultural alignment, accessibility design in low resource settings, human factors evaluation, integrating local knowledge and cultural values into AI systems."
+    },
+    {
+      "category": "Human Computer Interaction (HCI)",
+      "skills": "LLM customization and prompt interface design, and data collection and annotation with domain experts, UI and UX frameworks for trust and comprehension."
+    },
+    {
+      "category": "Automation & Productivity",
+      "skills": "MS Word, PowerPoint, Excel Automation, Google Sheets Scripting, Python-based Automation, Adobe Photoshop and Illustrator"
+    },
+    {
+      "category": "Other Tools & Skills",
+      "skills": " GitHub, VS Code, Replit, Colab, Kaggle, Parallel & Distributed Computing, Strategic Planning"
+    }
+  ]
+}

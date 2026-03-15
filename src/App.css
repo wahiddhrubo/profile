@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  --color-primary-blue: oklch(0.546 0.245 262.881);
+}
+
+html {
+  scroll-behavior: smooth;
+}
